@@ -1,8 +1,8 @@
 <div align="center">
 
-# João Vitor Angelim Nogueira
+# João Vítor Angelim Nogueira
 
-**Desenvolvedor Back-End & Full-Stack**
+**Engenharia de Computação | Cloud & DevOps**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vitorangn.github.io-7c3aed?style=for-the-badge)](https://vitorangn.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorangn)
@@ -12,17 +12,17 @@
 
 ---
 
-### Sobre Mim
+### Perfil Profissional
 
-Natural do Ceará e graduando em Engenharia da Computação pela UTFPR — Cornélio Procópio/PR.
+Estudante de Engenharia de Computação (UTFPR) e Técnico em TI em transição de carreira do desenvolvimento Back-end para a área de **Cloud Computing e DevOps**. 
 
-Focado no desenvolvimento de sistemas com base estrutural sólida em Lógica, Estrutura de Dados e POO, aliada ao uso de metodologias ágeis.
+Busco oportunidades de Estágio ou nível Júnior para aplicar conhecimentos em orquestração de contêineres, automação de infraestrutura e integração contínua. Possuo base sólida em arquitetura de software (Clean Architecture), estruturas de dados e programação orientada a objetos, o que facilita o entendimento profundo das aplicações que gerencio.
 
-*   Desenvolvimento de projetos com foco em performance e arquitetura limpa.
-*   Experiência em design de APIs RESTful com Java, Node.js e Go.
-*   Interesse em FullStack, gerenciamento de data e alguns outros.
-*   Atuação em todas as etapas do projeto, da prototipação no Figma à modelagem de banco de dados.
-*   Inglês avançado (C1) — leitura, escrita e comunicação profissional.
+*   Experiência prática em ambiente Linux e Shell Scripting para automação de tarefas.
+*   Conhecimento na criação e orquestração de ambientes locais e de produção utilizando Docker e Docker Compose.
+*   Desenvolvimento de pipelines de CI/CD para automação de testes e deploys (GitHub Actions).
+*   Base de desenvolvimento em linguagens focadas em performance e ferramentas de infraestrutura: Go, Python e Java.
+*   Inglês nível Avançado (C1).
 
 ---
 
@@ -30,34 +30,27 @@ Focado no desenvolvimento de sistemas com base estrutural sólida em Lógica, Es
 
 <div align="center">
 
-**Linguagens**
+**Infraestrutura, Cloud & CI/CD**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Linguagens (Scripting & Back-end)**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frameworks & Ferramentas**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Banco de Dados & DevOps**
+**Bancos de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -70,17 +63,17 @@ Focado no desenvolvimento de sistemas com base estrutural sólida em Lógica, Es
 <td width="50%">
 
 #### [Helpdesk Corporativo](https://github.com/VitorAngN/helpdesk-system)
-Sistema Full-Stack de gestão de chamados B2B com React, TypeScript, Express, Prisma e MySQL. Autenticação JWT com roteamento blindado de 3 camadas isoladas (Admin, Agente, Usuário).
+Sistema de gestão de chamados. Destaque para a infraestrutura da aplicação, que foi totalmente conteinerizada com Docker e provisionada em ambiente Linux num servidor AWS EC2. Implementação de pipeline de CI/CD via GitHub Actions para validação automatizada de código.
 
-`React` `TypeScript` `Node.js` `Express` `Prisma` `MySQL` `JWT`
+`Docker` `AWS EC2` `GitHub Actions` `Linux` `Node.js` `MySQL`
 
 </td>
 <td width="50%">
 
-#### [Korp — Sistema de Faturamento](https://github.com/VitorAngN/Korp_Teste_Vitor)
-Sistema de emissão de notas com microserviços em Go, frontend Angular e comunicação resiliente via circuit breaker. PostgreSQL + Docker Compose para orquestração.
+#### [Korp — Arquitetura de Faturamento](https://github.com/VitorAngN/Korp_Teste_Vitor)
+Arquitetura de microsserviços focada em resiliência. Destaque para a orquestração do ambiente de múltiplos serviços e banco de dados isolados utilizando Docker Compose. Implementação de transações ACID e lock atômico no banco de dados.
 
-`Angular` `Go` `PostgreSQL` `Docker` `Microserviços` `REST`
+`Docker Compose` `Go` `PostgreSQL` `Microsserviços` `Resiliência`
 
 </td>
 </tr>
@@ -88,17 +81,17 @@ Sistema de emissão de notas com microserviços em Go, frontend Angular e comuni
 <td width="50%">
 
 #### [CPU Emulator](https://github.com/VitorAngN/oldCPUEmulator)
-Emulador de CPU desenvolvido do zero em C++ para estudos de arquitetura de computadores. Implementação de instruções, registradores e ciclo de clock.
+Emulador de CPU CHIP-8 desenvolvido em C++. Projeto com foco no entendimento de baixo nível da arquitetura de computadores (ciclos de instrução, registradores, gerenciamento de memória RAM). Conhecimento essencial para otimização de recursos operacionais.
 
-`C++` `Arquitetura` `Low-Level` `Emulação`
+`C++` `Arquitetura de Computadores` `Gerenciamento de Memória`
 
 </td>
 <td width="50%">
 
-#### [UrbanShield — Segurança Pública](https://github.com/VitorAngN/public-security-system)
-Plataforma tática para despacho policial e monitoramento urbano. Dashboard em tempo real com integração de mapas (Google Maps API) e análise de dados operacionais.
+#### [Projeto DevOps — Em Desenvolvimento]
+*Espaço reservado para o repositório do laboratório de automação (Terraform, Shell Scripting e Provisionamento) que está sendo construído atualmente.*
 
-`React` `TypeScript` `Vite` `Google Maps API` `Recharts`
+`Terraform` `Ansible` `Shell Script` `AWS`
 
 </td>
 </tr>
@@ -106,7 +99,16 @@ Plataforma tática para despacho policial e monitoramento urbano. Dashboard em t
 
 ---
 
-### GitHub Stats
+### Conhecimentos Operacionais
+
+```text
+Administração Linux & Shell Scripting         Integração & Entrega Contínuas (CI/CD)
+Containerização (Docker/Compose)              Infraestrutura como Código (IaC) Básica
+Modelagem e Otimização de Banco de Dados      Troubleshooting e Análise de Logs
+Redes Básicas (TCP/IP, Portas, DNS)           Clean Architecture e APIs RESTful
+```
+
+---
 
 <div align="center">
 
@@ -114,15 +116,3 @@ Plataforma tática para despacho policial e monitoramento urbano. Dashboard em t
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAngN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=e8e8f0" />
 
 </div>
-
----
-
-### Conhecimentos Técnicos
-
-```text
-Programação Orientada a Objetos (POO)     APIs RESTful & Microserviços
-Estruturas de Dados & Algoritmos           Clean Code & Design Patterns
-Banco de Dados Relacional & Modelagem      Metodologias Ágeis (Scrum/Kanban)
-Autenticação & Segurança (JWT)             Redes & Sistemas Operacionais
-Engenharia de Software & Arquitetura
-```
