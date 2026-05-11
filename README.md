@@ -1,8 +1,8 @@
 <div align="center">
 
-# João Vítor Angelim Nogueira
+# João Vitor Angelim Nogueira
 
-**Engenharia de Computação | Cloud & DevOps**
+**Engenharia de Computação · Back-end & Infraestrutura**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vitorangn.github.io-7c3aed?style=for-the-badge)](https://vitorangn.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorangn)
@@ -12,17 +12,13 @@
 
 ---
 
-### Perfil Profissional
+### Sobre mim
 
-Estudante de Engenharia de Computação (UTFPR) e Técnico em TI em transição de carreira do desenvolvimento Back-end para a área de **Cloud Computing e DevOps**. 
+Estudante de Engenharia de Computação na **UTFPR** e Técnico em Informática, buscando oportunidade como **Desenvolvedor Back-end Júnior ou Estagiário**.
 
-Busco oportunidades de Estágio ou nível Júnior para aplicar conhecimentos em orquestração de contêineres, automação de infraestrutura e integração contínua. Possuo base sólida em arquitetura de software (Clean Architecture), estruturas de dados e programação orientada a objetos, o que facilita o entendimento profundo das aplicações que gerencio.
+Tenho experiência prática na construção de APIs RESTful com **Node.js/TypeScript**, **Go** e **Java**, autenticação JWT, modelagem de bancos relacionais e documentação técnica. Meu diferencial é unir desenvolvimento e operação: além de construir aplicações, venho aplicando **Docker**, **Linux**, **GitHub Actions** e **AWS EC2** para entender como sistemas são empacotados, testados e executados em ambiente real.
 
-*   Experiência prática em ambiente Linux e Shell Scripting para automação de tarefas.
-*   Conhecimento na criação e orquestração de ambientes locais e de produção utilizando Docker e Docker Compose.
-*   Desenvolvimento de pipelines de CI/CD para automação de testes e deploys (GitHub Actions).
-*   Base de desenvolvimento em linguagens focadas em performance e ferramentas de infraestrutura: Go, Python e Java.
-*   Inglês nível Avançado (C1).
+**Inglês Avançado (C1) · Espanhol Intermediário (B1)**
 
 ---
 
@@ -30,27 +26,33 @@ Busco oportunidades de Estágio ou nível Júnior para aplicar conhecimentos em 
 
 <div align="center">
 
-**Infraestrutura, Cloud & CI/CD**
+**Back-end & APIs**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Linguagens (Scripting & Back-end)**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Bancos de Dados**
+**Banco de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Infraestrutura & DevOps (Apoio)**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Front-end de Apoio**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
@@ -63,35 +65,35 @@ Busco oportunidades de Estágio ou nível Júnior para aplicar conhecimentos em 
 <td width="50%">
 
 #### [Helpdesk Corporativo](https://github.com/VitorAngN/helpdesk-system)
-Sistema de gestão de chamados. Destaque para a infraestrutura da aplicação, que foi totalmente conteinerizada com Docker e provisionada em ambiente Linux num servidor AWS EC2. Implementação de pipeline de CI/CD via GitHub Actions para validação automatizada de código.
+API REST com Node.js/Express, autenticação JWT/Bcrypt, controle de permissões RBAC e mais de 20 endpoints. Comunicação em tempo real com Socket.io, upload de anexos e métricas de SLA/CSAT. Conteinerizado com Docker e deploy em AWS EC2 com pipeline de CI via GitHub Actions.
 
-`Docker` `AWS EC2` `GitHub Actions` `Linux` `Node.js` `MySQL`
+`Node.js` `TypeScript` `MySQL` `Docker` `AWS EC2` `GitHub Actions`
 
 </td>
 <td width="50%">
 
-#### [Korp — Arquitetura de Faturamento](https://github.com/VitorAngN/Korp_Teste_Vitor)
-Arquitetura de microsserviços focada em resiliência. Destaque para a orquestração do ambiente de múltiplos serviços e banco de dados isolados utilizando Docker Compose. Implementação de transações ACID e lock atômico no banco de dados.
+#### [Faturamento em Microsserviços](https://github.com/VitorAngN/invoice-microservices-go)
+Microsserviços em Go para estoque e faturamento com PostgreSQL. Retry automático, fallback HTTP 503, transações ACID, rollback e lock atômico para operações concorrentes. Orquestrado com Docker Compose e interface Angular com RxJS.
 
-`Docker Compose` `Go` `PostgreSQL` `Microsserviços` `Resiliência`
+`Go` `PostgreSQL` `Docker Compose` `Angular` `RxJS`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### [CPU Emulator](https://github.com/VitorAngN/oldCPUEmulator)
-Emulador de CPU CHIP-8 desenvolvido em C++. Projeto com foco no entendimento de baixo nível da arquitetura de computadores (ciclos de instrução, registradores, gerenciamento de memória RAM). Conhecimento essencial para otimização de recursos operacionais.
+#### [Plataforma de Segurança Pública](https://github.com/VitorAngN/urbanShield)
+Dashboard interativo com mapa em tempo real. Cálculo de proximidade via Haversine, integração com Google Maps e OSRM para roteamento real de viaturas, com canal de denúncia cidadã.
 
-`C++` `Arquitetura de Computadores` `Gerenciamento de Memória`
+`React` `TypeScript` `Google Maps API` `OSRM`
 
 </td>
 <td width="50%">
 
-#### [Projeto DevOps — Em Desenvolvimento]
-*Espaço reservado para o repositório do laboratório de automação (Terraform, Shell Scripting e Provisionamento) que está sendo construído atualmente.*
+#### [CPU Emulator (CHIP-8)](https://github.com/VitorAngN/oldCPUEmulator)
+Emulador completo em C++ sem dependências externas: renderização via Win32 API nativa. Implementa ciclo Fetch/Decode/Execute, 16 registradores, timers a 60Hz e 4KB de RAM simulada.
 
-`Terraform` `Ansible` `Shell Script` `AWS`
+`C++` `Win32 API` `Arquitetura de Computadores`
 
 </td>
 </tr>
@@ -99,13 +101,13 @@ Emulador de CPU CHIP-8 desenvolvido em C++. Projeto com foco no entendimento de 
 
 ---
 
-### Conhecimentos Operacionais
+### Fundamentos
 
 ```text
-Administração Linux & Shell Scripting         Integração & Entrega Contínuas (CI/CD)
-Containerização (Docker/Compose)              Infraestrutura como Código (IaC) Básica
-Modelagem e Otimização de Banco de Dados      Troubleshooting e Análise de Logs
-Redes Básicas (TCP/IP, Portas, DNS)           Clean Architecture e APIs RESTful
+APIs RESTful & Autenticação JWT          Transações ACID, Rollback e Lock Atômico
+Containerização (Docker/Compose)         Comunicação em Tempo Real (WebSockets)
+Clean Architecture & OOP                 Pipelines de CI/CD (GitHub Actions)
+Administração Linux & Shell              Deploy em Nuvem (AWS EC2)
 ```
 
 ---
