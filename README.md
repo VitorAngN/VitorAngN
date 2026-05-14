@@ -21,7 +21,7 @@ Tenho experiência prática na construção de APIs RESTful com **Node.js/TypeSc
 
 Meu diferencial é a visão de operação: venho aplicando práticas de infraestrutura para entender como sistemas são empacotados e executados em ambiente real.
 
-📌 **Atualmente aprofundando:** Linux, Docker, GitHub Actions, AWS, Bash e fundamentos de Cloud/DevOps.
+**Atualmente aprofundando:** Linux, Docker, GitHub Actions, AWS, Bash e fundamentos de Cloud/DevOps.
 
 *   **Arquitetura & Código:** Autenticação JWT, permissões (RBAC), transações ACID e lock atômico.
 *   **Deploy & Infraestrutura:** Containerização (Docker), CI (GitHub Actions) e deploy em AWS EC2.
