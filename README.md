@@ -14,15 +14,18 @@
 
 ### Perfil Profissional
 
-Estudante de Engenharia de Computação na **UTFPR** e Técnico em Informática, buscando oportunidade como **Desenvolvedor Back-end Júnior ou Estagiário**.
+Estudante de Engenharia de Computação na **UTFPR** e Técnico em Informática. 
+Busco oportunidade como **Desenvolvedor Back-end Júnior ou Estagiário**.
 
-Tenho experiência prática na construção de APIs RESTful com **Node.js/TypeScript**, **Go** e **Java**, autenticação JWT, modelagem de bancos relacionais e documentação técnica. Meu diferencial é unir desenvolvimento e operação: além de construir aplicações, venho aplicando **Docker**, **Linux**, **GitHub Actions** e **AWS EC2** para entender como sistemas são empacotados, testados e executados em ambiente real.
+Tenho experiência prática na construção de APIs RESTful com **Node.js/TypeScript**, **Go** e **Java**, focando em autenticação, bancos de dados relacionais e documentação técnica. 
 
-*   Construção de APIs REST com autenticação JWT, controle de permissões por perfil (RBAC) e mais de 20 endpoints.
-*   Experiência com bancos de dados relacionais: modelagem, transações ACID, rollback e lock atômico.
-*   Containerização com Docker/Compose e pipeline de CI via GitHub Actions.
-*   Deploy validado em ambiente real: Linux Ubuntu na AWS EC2.
-*   Inglês Avançado (C1) | Espanhol Intermediário (B1).
+Meu diferencial é a visão de operação: venho aplicando práticas de infraestrutura para entender como sistemas são empacotados e executados em ambiente real.
+
+📌 **Atualmente aprofundando:** Linux, Docker, GitHub Actions, AWS, Bash e fundamentos de Cloud/DevOps.
+
+*   **Arquitetura & Código:** Autenticação JWT, permissões (RBAC), transações ACID e lock atômico.
+*   **Deploy & Infraestrutura:** Containerização (Docker), CI (GitHub Actions) e deploy em AWS EC2.
+*   **Idiomas:** Inglês Avançado (C1) | Espanhol Intermediário (B1).
 
 ---
 
@@ -44,7 +47,7 @@ Tenho experiência prática na construção de APIs RESTful com **Node.js/TypeSc
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Infraestrutura & DevOps (Apoio)**
+**Infraestrutura, Cloud & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -63,7 +66,7 @@ Tenho experiência prática na construção de APIs RESTful com **Node.js/TypeSc
 <td width="50%">
 
 #### [Helpdesk Corporativo](https://github.com/VitorAngN/helpdesk-system)
-API REST com Node.js/Express, autenticação JWT/Bcrypt, controle de permissões RBAC e mais de 20 endpoints. Comunicação em tempo real com Socket.io, métricas de SLA/CSAT. Conteinerizado com Docker e deploy validado em AWS EC2.
+API REST com Node.js/Express, autenticação JWT/Bcrypt, controle de permissões RBAC e mais de 20 endpoints. Comunicação em tempo real com Socket.io, métricas de SLA/CSAT. Conteinerizado com Docker, CI via GitHub Actions e deploy validado em AWS EC2.
 
 `Node.js` `TypeScript` `MySQL` `Docker` `AWS EC2` `GitHub Actions`
 
