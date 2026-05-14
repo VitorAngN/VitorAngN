@@ -63,7 +63,7 @@ Tenho experiência prática na construção de APIs RESTful com **Node.js/TypeSc
 <td width="50%">
 
 #### [Helpdesk Corporativo](https://github.com/VitorAngN/helpdesk-system)
-API REST com Node.js/Express, autenticação JWT/Bcrypt, controle de permissões RBAC e mais de 20 endpoints. Comunicação em tempo real com Socket.io, métricas de SLA/CSAT. Conteinerizado com Docker e deploy em AWS EC2 via GitHub Actions.
+API REST com Node.js/Express, autenticação JWT/Bcrypt, controle de permissões RBAC e mais de 20 endpoints. Comunicação em tempo real com Socket.io, métricas de SLA/CSAT. Conteinerizado com Docker e deploy validado em AWS EC2.
 
 `Node.js` `TypeScript` `MySQL` `Docker` `AWS EC2` `GitHub Actions`
 
