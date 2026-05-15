@@ -111,11 +111,3 @@ Clean Architecture & OOP                 Pipelines de CI/CD (GitHub Actions)
 Administração Linux & Shell              Deploy em Nuvem (AWS EC2)
 ```
 
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VitorAngN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&icon_color=a855f7&text_color=e8e8f0" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAngN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=e8e8f0" />
-
-</div>
