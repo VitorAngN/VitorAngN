@@ -24,7 +24,7 @@ Meu diferencial é a visão de operação: venho aplicando práticas de infraest
 **Atualmente aprofundando:** Linux, Docker, GitHub Actions, AWS, Bash e fundamentos de Cloud/DevOps.
 
 *   **Arquitetura & Código:** Autenticação JWT, permissões (RBAC), transações ACID e lock atômico.
-*   **Deploy & Infraestrutura:** Containerização (Docker), CI (GitHub Actions) e deploy em AWS EC2.
+*   **Deploy & Infraestrutura:** Containerização (Docker), CI (GitHub Actions) e deploy validado em AWS EC2.
 *   **Idiomas:** Inglês Avançado (C1) | Espanhol Intermediário (B1).
 
 ---
