@@ -1,113 +1,89 @@
 <div align="center">
 
-# João Vítor Angelim Nogueira
+# João Vitor Angelim Nogueira
 
-**Engenharia de Computação · Back-end & Infraestrutura**
+**Estudante de Engenharia de Computação @ UTFPR | Back-end, Cloud & DevOps**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vitorangn.github.io-7c3aed?style=for-the-badge)](https://vitorangn.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorangn)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victornogueira1130@gmail.com)
-
-</div>
-
----
-
-### Perfil Profissional
-
-Estudante de Engenharia de Computação na **UTFPR** e Técnico em Informática. 
-Busco oportunidade como **Desenvolvedor Back-end Júnior ou Estagiário**.
-
-Tenho experiência prática na construção de APIs RESTful com **Node.js/TypeScript**, **Go** e **Java**, focando em autenticação, bancos de dados relacionais e documentação técnica. 
-
-Meu diferencial é a visão de operação: venho aplicando práticas de infraestrutura para entender como sistemas são empacotados e executados em ambiente real.
-
-**Atualmente aprofundando:** Linux, Docker, GitHub Actions, AWS, Bash e fundamentos de Cloud/DevOps.
-
-*   **Arquitetura & Código:** Autenticação JWT, permissões (RBAC), transações ACID e lock atômico.
-*   **Deploy & Infraestrutura:** Containerização (Docker), CI (GitHub Actions) e deploy validado em AWS EC2.
-*   **Idiomas:** Inglês Avançado (C1) | Espanhol Intermediário (B1).
-
----
-
-### Tech Stack
-
-<div align="center">
-
-**Back-end & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Bancos de Dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Infraestrutura, Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vitorangn.github.io-1f2937?style=for-the-badge)](https://vitorangn.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vitorangn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorangn)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victornogueira1130@gmail.com)
 
 </div>
 
 ---
 
-### Projetos em Destaque
+## Perfil
 
-<table>
-<tr>
-<td width="50%">
+Sou estudante de **Engenharia de Computação na UTFPR** e Técnico em Informática, buscando oportunidade como **Desenvolvedor Back-end Júnior ou Estagiário**.
 
-#### [Helpdesk Corporativo](https://github.com/VitorAngN/helpdesk-system)
-API REST com Node.js/Express, autenticação JWT/Bcrypt, controle de permissões RBAC e mais de 20 endpoints. Comunicação em tempo real com Socket.io, métricas de SLA/CSAT. Conteinerizado com Docker, CI via GitHub Actions e deploy validado em AWS EC2.
+Tenho experiência prática na construção de **APIs RESTful**, autenticação, bancos relacionais, documentação técnica e infraestrutura de apoio. Meu foco atual é unir desenvolvimento e operação: escrever o código, empacotar com Docker, validar com CI e entender como a aplicação roda em ambiente Linux/AWS.
 
-`Node.js` `TypeScript` `MySQL` `Docker` `AWS EC2` `GitHub Actions`
+**Stack principal:** Node.js, TypeScript, Go, Java, PostgreSQL, MySQL, Prisma, Docker, Linux, GitHub Actions e AWS EC2.
 
-</td>
-<td width="50%">
+---
 
-#### [Faturamento em Microsserviços](https://github.com/VitorAngN/invoice-microservices-go)
-Microsserviços em Go para estoque e faturamento com PostgreSQL. Retry automático, fallback HTTP 503, transações ACID, rollback e lock atômico para operações concorrentes. Orquestrado com Docker Compose.
+## Projetos em Destaque
+
+### 1. [Helpdesk Corporativo](https://github.com/VitorAngN/helpdesk-system)
+
+Sistema full-stack para gestão de chamados de TI, com foco em fluxo real de suporte e operação.
+
+- API REST com Node.js/Express, JWT/Bcrypt, RBAC e mais de 20 endpoints.
+- Comunicação em tempo real com Socket.io, upload de anexos, logs de auditoria e métricas de SLA/CSAT.
+- Ambiente containerizado com Docker/Docker Compose.
+- Pipeline de CI com GitHub Actions e deploy validado em Linux/AWS EC2.
+
+`Node.js` `TypeScript` `MySQL` `Docker` `AWS EC2` `GitHub Actions` `Socket.io`
+
+### 2. [JobOps](https://github.com/VitorAngN/jobops)
+
+Plataforma para organizar candidaturas, acompanhar status, medir retorno e manter follow-ups de vagas.
+
+- CRUD completo de candidaturas, empresas e versões de currículo.
+- Dashboard com métricas de resposta, entrevistas, candidaturas recentes e follow-ups.
+- API com Express, PostgreSQL, Prisma e validações de domínio.
+- Exportação CSV/Excel, testes de API e ambiente Docker para banco de dados.
+
+`React` `TypeScript` `Express` `PostgreSQL` `Prisma` `Docker` `CSV/Excel`
+
+### 3. [Faturamento em Microsserviços](https://github.com/VitorAngN/invoice-microservices-go)
+
+Sistema de faturamento com microsserviços em Go para estoque e emissão de faturas.
+
+- Serviços em Go conectados a PostgreSQL.
+- Docker Compose para execução reprodutível do ambiente.
+- Retry automático, fallback HTTP 503, transações ACID, rollback e lock atômico.
+- Interface em Angular com RxJS.
 
 `Go` `PostgreSQL` `Docker Compose` `Angular` `RxJS`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 4. [CPU Emulator CHIP-8](https://github.com/VitorAngN/oldCPUEmulator)
 
-#### [CPU Emulator (CHIP-8)](https://github.com/VitorAngN/oldCPUEmulator)
-Emulador completo em C++ sem dependências externas. Implementa ciclo Fetch/Decode/Execute, 16 registradores, timers a 60Hz e 4KB de RAM simulada. Renderização via Win32 API nativa.
+Emulador de CPU desenvolvido do zero em C++ para consolidar fundamentos de arquitetura de computadores.
 
-`C++` `Win32 API` `Arquitetura de Computadores`
+- Ciclo Fetch/Decode/Execute.
+- Registradores, timers, memória simulada e renderização via Win32 API.
+- Implementação sem dependências externas.
 
-</td>
-<td width="50%">
-
-#### [Plataforma de Segurança Pública](https://github.com/VitorAngN/urbanShield)
-Dashboard interativo com mapa em tempo real. Cálculo de proximidade via Haversine, integração com Google Maps e OSRM para roteamento real de viaturas, com canal de denúncia cidadã.
-
-`React` `TypeScript` `Google Maps API` `OSRM`
-
-</td>
-</tr>
-</table>
+`C++` `Win32 API` `Computer Architecture`
 
 ---
 
-### Fundamentos
+## Fundamentos Tecnicos
 
 ```text
-APIs RESTful & Autenticação JWT          Transações ACID, Rollback e Lock Atômico
-Containerização (Docker/Compose)         Comunicação em Tempo Real (WebSockets)
-Clean Architecture & OOP                 Pipelines de CI/CD (GitHub Actions)
-Administração Linux & Shell              Deploy em Nuvem (AWS EC2)
+Back-end/API       Node.js, TypeScript, Express, Go, Java, REST, JWT, RBAC
+Dados              PostgreSQL, MySQL, Prisma, modelagem relacional, ACID
+Infra/DevOps       Docker, Docker Compose, Linux, Bash, GitHub Actions, AWS EC2
+Base acadêmica     POO, Estruturas de Dados, SO, Redes, Arquitetura de Computadores
+Idiomas            Inglês avançado (C1), Espanhol intermediário (B1)
 ```
 
+---
+
+## Atualmente estudando
+
+- Node.js/TypeScript com foco em qualidade de API e arquitetura.
+- PostgreSQL, modelagem relacional e transações.
+- Docker, Linux, Bash e automação de ambiente.
+- GitHub Actions, AWS básico e fundamentos de Cloud/DevOps.
