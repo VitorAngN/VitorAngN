@@ -2,7 +2,7 @@
 
 # João Vítor Angelim Nogueira
 
-**Engenharia de Computação · Back-end com visão de Infraestrutura**
+**Engenharia de Computação · Back-end e Infraestrutura**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vitorangn.github.io-7c3aed?style=for-the-badge)](https://vitorangn.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorangn)
