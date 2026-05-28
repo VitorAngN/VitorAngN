@@ -22,7 +22,7 @@ Tenho experiência prática na construção de APIs RESTful com **Node.js/TypeSc
 Meu diferencial é a visão de operação: gosto de entender como o software sai do código e chega em ambiente real, passando por **Docker**, **Linux**, **GitHub Actions** e **AWS EC2**.
 
 * **Arquitetura & Código:** Autenticação JWT, RBAC, transações ACID, rollback e lock atômico.
-* **Deploy & Infraestrutura:** Docker/Compose, CI com GitHub Actions e deploy validado em AWS EC2.
+* **Infraestrutura de apoio:** Docker/Compose, CI com GitHub Actions e deploy validado manualmente em AWS EC2.
 * **Idiomas:** Inglês Avançado (C1) | Espanhol Intermediário (B1).
 
 ---
@@ -45,7 +45,7 @@ Meu diferencial é a visão de operação: gosto de entender como o software sai
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Infraestrutura, Cloud & DevOps**
+**Infraestrutura de apoio**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -105,6 +105,6 @@ Emulador completo em C++ sem dependências externas. Implementa ciclo Fetch/Deco
 ```text
 APIs RESTful & Autenticação JWT          Transações ACID, Rollback e Lock Atômico
 Containerização (Docker/Compose)         Comunicação em Tempo Real (WebSockets)
-Clean Architecture & OOP                 Pipelines de CI/CD (GitHub Actions)
-Administração Linux & Shell              Deploy em Nuvem (AWS EC2)
+Clean Architecture & OOP                 CI com GitHub Actions
+Administração Linux & Shell              Deploy validado em AWS EC2
 ```
