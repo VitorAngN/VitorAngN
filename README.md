@@ -53,6 +53,7 @@ Meu diferencial é a visão de operação: gosto de entender como o software sai
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
 </div>
 
 ---
