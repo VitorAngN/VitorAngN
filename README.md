@@ -1,6 +1,6 @@
 <div align="center">
 
-# João Vítor Angelim Nogueira
+# João Vítor Angelim Nogueir
 
 **Engenharia de Computação · Back-end e Infraestrutura**
 
