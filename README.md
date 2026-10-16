@@ -100,7 +100,7 @@ Emulador completo em C++ sem dependências externas. Implementa ciclo Fetch/Deco
 </table>
 
 ---
-
+ 
 ### Fundamentos
 
 ```text
